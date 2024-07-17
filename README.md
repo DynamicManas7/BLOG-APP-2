@@ -1,4 +1,6 @@
 Blog Application Website
+
+
 This project is a comprehensive Blog Application featuring an intuitive admin panel that allows users to manage their blogs seamlessly. Below is a detailed overview of the functionalities and technologies used in this project.
 <img width="1406" alt="Screenshot 2024-07-17 at 2 45 48 PM" src="https://github.com/user-attachments/assets/30ddf32c-1b93-4acb-81b0-693d408ea896">
 
